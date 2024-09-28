@@ -21,9 +21,3 @@
     <p align="center">
     <a href="https://www.linkedin.com/in/aditya-raj-10a944225/" target="blank"><img align="center" src="https://img.shields.io/badge/Aditya%20Raj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:adityaraj6043@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/ADITYARAJ6043%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/aadiii6043" target="blank"><img align="center" src="https://img.shields.io/badge/aadiii6043-181717?style=for-the-badge&logo=github&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.instagram.com/aadiiiofficial/" target="blank"><img align="center" src="https://img.shields.io/badge/aadiiiofficial-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
     </p>
-
-    <Br>
-        <hr>
-        <Br>
-        <h1 align="center">Skills I have! 🤸‍♂</h1>
-        <Br>
