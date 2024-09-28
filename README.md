@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="123.png" height="250" width="1200"/>
+    <img src="123.png" height="250"/>
   </p>
   <hr>
   <h1 align="center">Hello there! 👋🏻 I'm Aditya Raj<img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="80" /></h1>
