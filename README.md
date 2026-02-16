@@ -1,14 +1,21 @@
 <p align="center">
     <img src="Aditya.png" height="250"/>
   </p>
-  <hr>
+
+  ---
+
+  # 🚀 Aditya's – GitHub Activity Game
+
+<p align="center">
+  <img src="space-shooter.gif" alt="GitHub Space Shooter" />
+</p>
   <h1 align="center">Hello there! 👋🏻 I'm Aditya Raj<img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="80" /></h1>
   
   <h1>About Me! 😎 </h1>
   
   <ul style="list-style: none; font-family: Arial, sans-serif;">
-    <li>🏫: I'm Student at Dayananda Sagar University.</li>
-    <li>🔭: I’m currently working on many small ML projects.</li>
+    <li>🏫: I'm Software Developer at Cognizant Technology Solution.</li>
+    <li>🔭: I’m currently working on many small AI/ML Projects .</li>
     <li>🌱: I’m currently learning Artificial Intelligence and Deep Learning. 🧠💻🤖</li>
     <li>🤔: I’m looking for help with anything I am currently learning! 😅</li>
     <li>😄: Pronouns: He/His</li>
