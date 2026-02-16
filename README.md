@@ -62,7 +62,7 @@
 ### 🐍 GitHub Snake
 
 <p align="center">
-  <img src="https://github.com/aadiii6043/aadiii6043/blob/output/github-snake.svg" />
+  <img src="./github-snake.svg" />
 </p>
 
 ---
@@ -144,7 +144,7 @@
         </td>
         <td style="border: 1px solid #ccc; padding: 10px;">
           <img src="https://iconic-api.onrender.com/dark/flask" width="40px" title="Flask" />
-          <img src="https://iconic-api.onrender.com/dark/django" width="40px" title="Django" />
+          <img src="https://iconic-api.onrender.com/dark/springboot" width="40px" title="Spring Boot" />
         </td>
         <td style="border: 1px solid #ccc; padding: 10px;">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="40px" title="Kaggle" />
